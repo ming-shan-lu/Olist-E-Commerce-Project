@@ -16,7 +16,7 @@ An interactive Power BI dashboard is available for viewing [here](https://app.po
 
 The SQL queries utilised to inspect and perform quality checks can be found [here](https://github.com/ming-shan-lu/Olist-E-Commerce-Project/blob/main/Olist_1_DataPreparation.sql). 
 
-Targeted SQL queries regarding various business questions can be found here.
+Targeted SQL queries regarding various business questions can be found [here](https://github.com/ming-shan-lu/Olist-E-Commerce-Project/blob/main/Olist_2_sales_analysis.sql).
 
 # Data Structure & Initial Checks
 
