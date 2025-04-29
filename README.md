@@ -24,7 +24,7 @@ Olist’s database structure, as shown below, comprises eight tables: orders, it
 
 <img width="1217" alt="1_Olist_ERD" src="https://github.com/user-attachments/assets/9f7d97f0-b0d7-455b-bddf-15778f37eff8" />
 
-Before the analysis, various checks were conducted to control quality and familiarise the datasets. The SQL queries utilised to inspect and perform quality checks can be found here.
+Before the analysis, various checks were conducted to control quality and familiarise the datasets. The SQL queries utilised to inspect and perform quality checks can be found [here](https://github.com/ming-shan-lu/Olist-E-Commerce-Project/blob/main/Olist_1_DataPreparation.sql).
 
 # Executive Summary
 ### Overview of Findings
