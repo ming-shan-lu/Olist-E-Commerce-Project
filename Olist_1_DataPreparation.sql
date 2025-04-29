@@ -2,9 +2,10 @@ CREATE SCHEMA Olist;
 
 USE Olist;
 
-## DATA PREPARATION ------------------------------------------------------------------
+/* DATA PREPARATION 
+ Check duplicates by distinct count. Found no duplicate rows in all tables.
+*/
 
-# check duplicate by discinct count. Found no duplcate rows in all tables.
 SELECT 
 	order_id,
 	COUNT(*)
@@ -12,12 +13,14 @@ FROM  olist_orders oo
 GROUP BY oo.order_id 
 HAVING COUNT(*)>1; 
 
-# 99,441 rows
+# --- 99,441 rows ---
+	
 SELECT
 	COUNT(*)
 FROM olist_orders oo;
 
-# update tables
+# --- update tables ---
+
 ALTER TABLE olist_products 
 ADD COLUMN product_category_name_english VARCHAR(255);
 
@@ -46,15 +49,16 @@ SET product_category_name_english = 'N/A'
 WHERE product_category_name_english IS NULL;
 
 SELECT 
-	product_category_name,
-	product_category_name_english
+   product_category_name,
+   product_category_name_english
 FROM olist_products op 
 WHERE product_category_name_english = 'N/A';
 
-#'portateis_cozinha_e_preparadores_de_alimentos' = portable kitchens and food preparers
+# ---'portateis_cozinha_e_preparadores_de_alimentos' = portable kitchens and food preparers ---
+
 SELECT 
-	product_category_name,
-	product_category_name_english
+   product_category_name,
+   product_category_name_english
 FROM olist_products op 
 WHERE product_category_name = 'portateis_cozinha_e_preparadores_de_alimentos'
 
