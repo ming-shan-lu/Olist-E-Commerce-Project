@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
   * **Logistics and Delivery Performance:** Evaluation of order fulfilment efficiency, focusing on delivery status, on-time-delivery rates, average delivery time, and delay attribution between sellers and carriers. Recommendations are provided to enhance supply chain reliability and customer satisfaction.
   * **Regional Comparisons and logistics:** Comparative analysis of sales and logistics metrics across Brazilian states, highlighting top-performing regions in terms of seller and revenue contribution, supporting regional strategy optimisation.
 
-An interactive Power BI dashboard is available for viewing here.
+An interactive Power BI dashboard is available for viewing [here](https://app.powerbi.com/view?r=eyJrIjoiMGFiZjliNTgtNThhMS00NTE1LWI4Y2ItOTIwOTYzNjNlM2RiIiwidCI6IjJmOTEzM2NiLWJhNGEtNDFmYy1hZGQ5LTZjMGEzZTYwY2Q4ZSJ9&pageName=1570e4f308109be8638c).
 
 The SQL queries utilised to inspect and perform quality checks can be found here. 
 
