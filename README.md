@@ -14,9 +14,7 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive Power BI dashboard is available for viewing [here](https://app.powerbi.com/view?r=eyJrIjoiMGFiZjliNTgtNThhMS00NTE1LWI4Y2ItOTIwOTYzNjNlM2RiIiwidCI6IjJmOTEzM2NiLWJhNGEtNDFmYy1hZGQ5LTZjMGEzZTYwY2Q4ZSJ9&pageName=1570e4f308109be8638c).
 
-The SQL queries utilised to inspect and perform quality checks can be found here. 
-
-The SQL queries utilised to clean, organise, and prepare data for the dashboard can be found here.
+The SQL queries utilised to inspect and perform quality checks can be found [here](https://github.com/ming-shan-lu/Olist-E-Commerce-Project/blob/main/Olist_1_DataPreparation.sql). 
 
 Targeted SQL queries regarding various business questions can be found here.
 
