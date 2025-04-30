@@ -48,7 +48,7 @@ The visual below provides an overview page from the Power BI dashboard; addition
   * In **2018**, the company experienced significant **revenue growth of 22%**, despite data being available for only the first eight months of the year. By August 2018, total revenue had already surpassed that of 2017. A comparison of monthly averages shows an **83% increase in 2018 (R$1,056,491)** compared to **2017 (R$576,881)**. If the trend continues, the year-end revenue for 2018 could double that of 2017.<img width="1018" alt="4_revenue orders" src="https://github.com/user-attachments/assets/bdef4138-532c-49b8-aed0-3be3c1d566bc" /> 
   * In most months, a notable pattern was observed: **as order volume increased, the average order value (AOV) decreased**. This suggests a shift toward a volume-based growth strategy. Despite the lower AOV, total revenue and order volume continue to rise, reflecting successful customer acquisition and an expanding market reach. Profitability remained strong during this period, indicating healthy margins and scalable operations.
     
-![5_mom%](https://github.com/user-attachments/assets/89981d02-c71a-4d0f-9f95-96dab41cf570)
+<img width="1027" alt="5_mom%" src="https://github.com/user-attachments/assets/583aaf68-5d55-4b6f-b3ac-d3194f720e1b" />
 
 *Note: Due to significant fluctuations and limited data in the early months, the area chart begins in April 2017 to better represent meaningful trends.*
 
