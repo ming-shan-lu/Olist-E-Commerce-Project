@@ -66,6 +66,8 @@ The visual below provides an overview page from the Power BI dashboard; addition
     - **Weekly Trends:**  Customers were more active between **Monday and Wednesday**, with activity tapering off toward the weekend. **Weekends consistently recorded the lowest revenue**, possibly due to decreased online engagement or routine shifts during leisure days.
     - **Daily Trends:** Revenue peaked in the **afternoon hours (1-4 PM)**, followed by a gradual decline in the evening, indicating that midday may be the most effective window for promotions and marketing efforts.
    
+![11_shopping behaviour](https://github.com/user-attachments/assets/4ba16874-2f2f-4cb6-920e-314a213d9d16)
+    
 ### Logistics and delivery:
   * Olist maintained a strong **on-time delivery rate of 93%**, with **89,936 out of 96,478 delivered orders** arriving as scheduled. However, delivery performance varied across time. For instance, during the sales peak in **November 2017**, the on-time delivery rate dropped to **88%**, while the lowest monthly rate was recorded in **March 2018, at 81%**.
   * **The average delivery time** across all regions was **12 days**, with **São Paulo** standing out as the fastest, averaging just **8** days. Notably, delivery speed improved in 2018, with a consistent downward trend in delivery days compared to 2017, except for **March 2018, which had 16 days**. 
