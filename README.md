@@ -20,7 +20,7 @@ Targeted SQL queries regarding various business questions can be found [here](ht
 
 # Data Structure & Initial Checks
 
-Olist’s database structure, as shown below, comprises eight tables: orders, items, customers, reviews, payments, sellers, products, and geolocation, with a total of 99,441 records.
+Olist’s database structure, as shown below, comprises seven tables: orders, items, customers, reviews, payments, sellers, and products, totalling 99,441 records.
 
 <img width="1217" alt="1_Olist_ERD" src="https://github.com/user-attachments/assets/9f7d97f0-b0d7-455b-bddf-15778f37eff8" />
 
