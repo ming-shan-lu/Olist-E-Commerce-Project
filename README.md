@@ -33,11 +33,11 @@ Since December 2016, Olist has experienced steady revenue growth, peaking in Nov
 
 In August 2018, the platform saw a sharp **450%** surge in active sellers. However, this expansion translated into only a modest 3% increase in order volume. Notably, total revenue fell by **4%**, and the average order value (AOV) declined from **R$170** to **R$157**. This pattern suggests that while seller activity grew, many newcomers may have entered with lower-priced items, contributing to smaller basket sizes per transaction.
 
-The visual below provides an overview page from the Power BI dashboard; additional dashboard examples and detailed analyses are included throughout this report. The full interactive dashboard is accessible here.
+The visual below provides an overview page from the Power BI dashboard; additional dashboard examples and detailed analyses are included throughout this report. The full interactive dashboard is accessible [here](https://app.powerbi.com/view?r=eyJrIjoiMGFiZjliNTgtNThhMS00NTE1LWI4Y2ItOTIwOTYzNjNlM2RiIiwidCI6IjJmOTEzM2NiLWJhNGEtNDFmYy1hZGQ5LTZjMGEzZTYwY2Q4ZSJ9&pageName=1570e4f308109be8638c).
 
 ![2_Olist_overview](https://github.com/user-attachments/assets/bbcac142-d088-4249-bc38-93a32887e1a1)
 
-### Latest Performance Summary: July vs August
+### Latest Performance Summary: July vs August 2018
 <img width="920" alt="3_table" src="https://github.com/user-attachments/assets/22817253-503a-4512-a10d-376a97d6dda0" />
 
 # Insights Deep Dive
