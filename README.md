@@ -75,7 +75,7 @@ The visual below provides an overview page from the Power BI dashboard; addition
 
 
 ### Regional Comparisons:
-  * **São Paulo** dominates the marketplace, hosting **70%** of all **sellers** and generating **51%** of the total **revenue (R$5,769,081)**. Paraná and Minas Gerais follow with 10% and 8% of seller distribution, respectively. Rounding out the top five seller locations are Rio de Janeiro and Santa Catarina.
+  * **São Paulo** dominates the marketplace, hosting **64%** of all **sellers** and generating **37%** of the total **revenue (R$5,769,081)**. Paraná and Minas Gerais follow with 9% and 7% of seller distribution, respectively. Rounding out the top five seller locations are Rio de Janeiro and Santa Catarina.
   * The top-selling product categories in São Paulo are **“bed_bath_table,” “health_beauty,” and “sports_leisure.”** These categories also rank among the top three in Rio de Janeiro and Minas Gerais, reflecting consistent consumer preferences across these high-performing states. Overall, top-selling states are concentrated in Brazil’s Southeast and South regions.![10_regional_sales](https://github.com/user-attachments/assets/b87cb9c5-da77-4416-b977-55b3b70dfaeb)
 
 
